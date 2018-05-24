@@ -1,0 +1,1 @@
+docker run -v $(pwd):/usr/src ak1103/node-wkhtmltopdf

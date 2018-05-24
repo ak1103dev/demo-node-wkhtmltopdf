@@ -1,0 +1,15 @@
+{
+  "name": "demo-node-wkhtmltopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "ak1103dev",
+  "license": "MIT",
+  "dependencies": {
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
